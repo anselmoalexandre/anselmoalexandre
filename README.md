@@ -1,4 +1,4 @@
-### Olá! 👋🏿
+### Olá! 👋
 
 My name is Anselmo Alexandre
 
