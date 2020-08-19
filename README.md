@@ -1,9 +1,12 @@
 ### Olá! 👋🏿
 
-<!--
-**anselmoalexandre/anselmoalexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Anselmo Alexandre
 
-Here are some ideas to get you started:
+I'am an Android Engineer and occasional UI/UX designer.
+
+I am currently based in Mozambique 🇲🇿 and currently buiding [bilheteira.co.mz Android app](https://play.google.com/store/apps/details?id=mz.co.bilheteira.bilheteira) and working at [Bilheteira, Inc](https://www.bilheteira.co.mz)
+
+:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
