@@ -4,7 +4,7 @@ My name is Anselmo Alexandre
 
 I’m an Android Engineer and occasional UI/UX designer, currently based in Maputo, Mozambique 🇲🇿.
 
-🔭 I am currently working as Android dev in [Snapp Mobile, Germany 🇩🇪 ](https://snappmobile.io).
+🔭 I am currently working as Android Developer at [Snapp Mobile, Germany 🇩🇪 ](https://snappmobile.io).
 
 🔭 I also spend some time as Android Engineer at [Bilheteira Inc](https://www.bilheteira.co.mz), buiding & maintaining [bilheteira.co.mz Android app](https://play.google.com/store/apps/details?id=mz.co.bilheteira.bilheteira) as side project.
 
