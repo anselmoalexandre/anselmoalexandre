@@ -8,7 +8,7 @@ I’m an Android Engineer and occasional UI/UX designer, currently based in Mapu
 
 🔭 I also spend some time as Android Engineer at [Bilheteira Inc](https://www.bilheteira.co.mz), buiding & maintaining [bilheteira.co.mz Android app](https://play.google.com/store/apps/details?id=mz.co.bilheteira.bilheteira) as side project.
 
-I have skills and passionate about [Android](https://github.com/topics/android), [Kotlin](https://github.com/topics/kotlin), [Laravel](https://github.com/topics/laravel), [MySQL](https://github.com/topics/mysql), [Git](https://github.com/topics/git).
+I have skills and passionate about [Android](https://github.com/topics/android), [Kotlin](https://github.com/topics/kotlin), [MySQL](https://github.com/topics/mysql), [Git](https://github.com/topics/git).
 
 I’m passionate about solving real community problems using code and design. I enjoy reading and speaking at conferences.
 
