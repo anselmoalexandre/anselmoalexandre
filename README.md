@@ -2,11 +2,11 @@
 
 My name is Anselmo Alexandre
 
-I’m an Android Engineer and occasional UI/UX designer, currently based in Maputo, Mozambique 🇲🇿.
+I’m Android Engineer. Mozambique is my home country.
 
-🔭 I am currently working as Android Developer at Snapp Mobile, Germany 🇩🇪.
+🔭 I am currently working as Android Engineer at Snapp Mobile Germany GmbH 🇩🇪.
 
-🔭 I also spend some time as Android Engineer at [Bilheteira Inc](https://www.bilheteira.co.mz), buiding & maintaining [bilheteira.co.mz Android app](https://play.google.com/store/apps/details?id=mz.co.bilheteira.bilheteira) as side project.
+🔭 I also spend some time as Android Engineer at [Bilheteira Inc](https://www.bilheteira.co.mz), building & maintaining [bilheteira.co.mz Android app](https://play.google.com/store/apps/details?id=mz.co.bilheteira.bilheteira) as side project.
 
 I have skills and passionate about [Android](https://github.com/topics/android), [Kotlin](https://github.com/topics/kotlin), [MySQL](https://github.com/topics/mysql), [Git](https://github.com/topics/git).
 
