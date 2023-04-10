@@ -3,6 +3,6 @@
 Hi,
 My name is Anselmo Alexandre
 
--- [bilheteira.co.mz](https://play.google.com/store/apps/details?id=mz.co.bilheteira.bilheteira) Android app.
+I play around with Android Engineering on my daily basis.
 
--- [call_me_anselmo - Twitter](https://twitter.com/call_me_anselmo)
+Created the [bilheteira.co.mz](https://play.google.com/store/apps/details?id=mz.co.bilheteira.bilheteira) Android app.
